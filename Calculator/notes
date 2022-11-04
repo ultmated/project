@@ -1,0 +1,4 @@
+What i Have Learn?
+ You can get the value of an id through getElementbyID('id').value
+ There is a method called eval() that allow javascript to automatically evalute the javacsript code and execute arthimetic operations
+ 
